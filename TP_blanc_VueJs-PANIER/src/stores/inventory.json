@@ -1,0 +1,124 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Friskies Fraise",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga adipisci exercitationem ad qui vero sunt, placeat, maiores voluptatibus at provident totam vel optio. Minus illo ullam unde numquam deserunt dolore?",
+      "prix": 54,
+      "devise": "€",
+      "brand": "Friskies"
+    },
+    {
+      "id": 2,
+      "title": "Wiskas Topinambour",
+      "description": "int commodi totam quaerat rem earum tempore odit beatae, ipsam error! Placeat consectetur possimus ab.",
+      "prix": 23,
+      "devise": "€",
+      "brand": "Wiskas"
+    },
+    {
+      "id": 3,
+      "title": "Friskies chocolat",
+      "description": "ro sunt, placeat, maiores voluptatibus at provident totam vel optio. Minus illo ullam unde numquam deserunt dolore?",
+      "prix": 84,
+      "devise": "€",
+      "brand": "Friskies"
+    },
+    {
+      "id": 4,
+      "title": "Wiskas Fleur d'oranger",
+      "description": "g elit. Nulla natus quidem praesentium quae modi voluptate totam numquam quibusdam dolores incidunt vero velit est autem, eaque, rem dignissimos unde, libero laudantium.",
+      "prix": 9,
+      "devise": "€",
+      "brand": "Wiskas"
+    },
+    {
+      "id": 5,
+      "title": "Friskies Pomme",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga adipisci exercitationem ad qui vero sunt, placeat, maiores voluptatibus at provident totam vel optio. Minus illo ullam unde numquam deserunt dolore?",
+      "prix": 75,
+      "devise": "€",
+      "brand": "Friskies"
+    },
+    {
+      "id": 6,
+      "title": "Friskies Fraise",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga adipisci exercitationem ad qui vero sunt, placeat, maiores voluptatibus at provident totam vel optio. Minus illo ullam unde numquam deserunt dolore?",
+      "prix": 1.4,
+      "devise": "€",
+      "brand": "Friskies"
+    },
+    {
+      "id": 7,
+      "title": "Wiskas Grenade",
+      "description": "iat minus sapiente quod et? In consectetur provident consequatur laudantium quas soluta aliquid asperiores",
+      "prix": 23,
+      "devise": "€",
+      "brand": "Wiskas"
+    },
+    {
+      "id": 8,
+      "title": "Wiskas vanille",
+      "description": "amet consectetur adipisicing elit. Animi vel dolor delectus a quas porro provident optio aliquid nam rep",
+      "prix": 13,
+      "devise": "€",
+      "brand": "Wiskas"
+    },
+    {
+      "id": 9,
+      "title": "Friskies Chorizo",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga adipisci exercitationem ad qui vero sunt, placeat, maiores voluptatibus at provident totam vel optio. Minus illo ullam unde numquam deserunt dolore?",
+      "prix": 2.3,
+      "devise": "€",
+      "brand": "Friskies"
+    },
+    {
+      "id": 10,
+      "title": "Friskies tortue",
+      "description": "elit. Impedit maiores fugit, optio officia quasi nam. Magni, maxime eveniet earum du",
+      "prix": 23,
+      "devise": "€",
+      "brand": "Friskies"
+    },
+    {
+      "id": 11,
+      "title": "Crunch noisette",
+      "description": "dolor harum iste culpa placeat ducimus l",
+      "prix": 32,
+      "devise": "€",
+      "brand": "Crunch"
+    },
+    {
+      "id": 12,
+      "title": "Friskies antilope",
+      "description": "consectetur adipisicing elit. Reiciendis nostrum velit ab quae? Saepe deleniti accusantiu",
+      "prix": 66,
+      "devise": "€",
+      "brand": "Friskies"
+    },
+    {
+      "id": 13,
+      "title": "Friskies Fraise",
+      "description": "ium consequatur dolorum reprehenderit dicta at voluptas quidem blanditiis neque distinctio saepe voluptatem quae moll",
+      "prix": 98,
+      "devise": "€",
+      "brand": "Friskies"
+    },
+    {
+      "id": 14,
+      "title": "Wiskas poulet",
+      "description": "lor sit amet consectetur adipisicing elit. Velit ",
+      "prix": 54,
+      "devise": "€",
+      "brand": "Wiskas"
+    },
+    {
+      "id": 15,
+      "title": "Friskies Abricot",
+      "description": "pore architecto voluptate omnis ",
+      "prix": 42,
+      "devise": "€",
+      "brand": "Friskies"
+    }
+  ]
+}
