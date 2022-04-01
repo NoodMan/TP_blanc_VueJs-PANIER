@@ -8,8 +8,8 @@ export const usePanierStore = defineStore({
     inPanier: [],
   }),
   getters: {
-    getInPanier: (state) => state.inPanier,
-    getArticles: (state) => state.articles,
+    getInPanier: (state) => state.inPanier, //inPanier
+    getArticles: (state) => state.articles, // list
 //  calcul pour 
     getTotalPrix: (state) => {
       let total = 0;
