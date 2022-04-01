@@ -1,17 +1,5 @@
-
-<script>
-// liste des croquettes
-
-import "bootstrap/dist/css/bootstrap.css";
-import "bootstrap-vue/dist/bootstrap-vue.css";
-export default {
-  props: {
-    article: Object,
-  },
-};
-</script>
-
 <template>
+  <!-- liste des croquettes -->
   <div>
     <h1>{{ article.title }}</h1>
     <p>{{ article.description }}</p>
@@ -20,17 +8,25 @@ export default {
     </span>
 
     <span @click="$emit('add-to-panier', article.id)">
-      <button class="btn btn-secondary"><span class="material-icons">
-add_shopping_cart
-</span></button>
+      <button class="btn btn-secondary">
+        <span class="material-icons"> add_shopping_cart </span>
+      </button>
     </span>
     <span @click="$emit('remove-to-panier', article.id)">
-      <button class="btn btn-danger"><span class="material-icons">
-delete
-</span></button>
+      <button class="btn btn-danger">
+        <span class="material-icons"> delete </span>
+      </button>
     </span>
   </div>
 </template>
+
+<script>
+export default {
+  props: {
+    article: Object,
+  },
+};
+</script>
 
 <style scoped>
 </style>

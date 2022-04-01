@@ -1,3 +1,13 @@
+<template>
+  <div v-for="item in list" :key="item">
+    <Article
+      :article="item"
+      @add-to-panier="addToPanier"
+      @remove-to-panier="removeToPanier"
+    />
+  </div>
+</template>
+
 <script>
 import { mapWritableState } from "pinia";
 import { usePanierStore } from "../../stores/panier";
@@ -41,14 +51,5 @@ export default {
 };
 </script>
 
-<template>
-  <div v-for="item in list" :key="item">
-    <Article
-      :article="item"
-      @add-to-panier="addToPanier"
-      @remove-to-panier="removeToPanier"
-    />
-  </div>
-</template>
 
 <style scoped></style>

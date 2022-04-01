@@ -10,7 +10,7 @@ export const usePanierStore = defineStore({
   getters: {
     getInPanier: (state) => state.inPanier,
     getArticles: (state) => state.articles,
-
+//  calcul pour 
     getTotalPrix: (state) => {
       let total = 0;
       state.inPanier.map((item: { prix: number, quantity: number }) => {

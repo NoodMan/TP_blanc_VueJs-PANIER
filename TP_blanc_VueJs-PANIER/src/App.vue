@@ -1,9 +1,3 @@
-<script setup lang="ts">
-import { RouterLink, RouterView } from "vue-router";
-import "bootstrap/dist/css/bootstrap.css";
-import "bootstrap-vue/dist/bootstrap-vue.css";
-</script>
-
 <template>
   <header>
     <div class="bg-dark fs-3 d-flex p-5 justify-content-center">
@@ -24,6 +18,12 @@ shopping_basket
 
   <RouterView />
 </template>
+
+
+<script setup>
+import { RouterLink, RouterView } from "vue-router";
+</script>
+
 
 <style>
 @import "@/assets/base.css";
